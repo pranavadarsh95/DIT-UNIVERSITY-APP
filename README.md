@@ -1,5 +1,5 @@
 # DIT-UNIVERSITY-APP<br/>
-An Android App which gives all information regarding update/notification/all current news/results <br/>
+An Android App which gives all information regarding update/notification/all current news/results....<br/>
 ![](images/abc.png)<br/>
 This application work dynamically.<br/>
 ![](images/abc1.png)<br/>
